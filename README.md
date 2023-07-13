@@ -5,9 +5,8 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSMVxmVPHDkwTgHGXGDxMZtgNlNNKFjTmBpvqXMwcsFcNBxxvSbwDdKWknhtMWbtDZlMBhxC)
 
 ![Allyson's GitHub stats](https://github-readme-stats.vercel.app/api?username=AllysonRyanE&show_icons=true&theme=tokyonight)
-
 ## Pericia nas seguintes tecnologias:
-<div style="display: inline_block"><br/>
+<div style="display: inline_block">
   <img align="center" alt = "python3" src ="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img align="center" alt = "sql" src ="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img align="center" alt = "html5" src ="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
