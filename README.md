@@ -1,10 +1,8 @@
 ### Olá, meu nome é Allyson Ryan 🖖
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_allyson.ryan/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allyson-ryan-ti/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSMVxmVPHDkwTgHGXGDxMZtgNlNNKFjTmBpvqXMwcsFcNBxxvSbwDdKWknhtMWbtDZlMBhxC)
 
-![Allyson's GitHub stats](https://github-readme-stats.vercel.app/api?username=AllysonRyanE&show_icons=true&theme=tokyonight)
 ## Pericia nas seguintes tecnologias:
 <div style="display: inline_block">
   <img align="center" alt = "python3" src ="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
