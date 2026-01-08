@@ -9,4 +9,4 @@
   <img src="https://img.shields.io/badge/-Amazon AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
 </div><br/>
 
-- Inspirado e impulsionado pela paixão por criar e resolver.
+-Inspirado e impulsionado pela paixão por criar e resolver.
