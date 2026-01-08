@@ -1,4 +1,3 @@
-### Olá, meu nome é Allyson Ryan 🖖
 
 <div style="display: inline_block">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"/>
@@ -10,4 +9,4 @@
   <img src="https://img.shields.io/badge/-Amazon AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
 </div><br/>
 
-Estudante de Sistemas de Informação no CIn, UFPE. Buscando dar o meu melhor enquanto exercito minha criatividade!
+Inspirado e impulsionado pela paixão por criar, buscando sempre aprender mais! 🤓
